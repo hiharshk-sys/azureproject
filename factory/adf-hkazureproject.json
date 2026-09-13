@@ -1,0 +1,15 @@
+{
+	"name": "adf-hkazureproject",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "50c1da1f-e3f0-49bf-963c-7e512abcdf8e",
+		"tenantId": "8069e8b4-c46a-4402-a2f7-5974cd6cf4d8"
+	}
+}
